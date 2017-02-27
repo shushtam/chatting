@@ -1,0 +1,285 @@
+/*login page*/
+.login {
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+.login_label {
+	color: #0099cc;
+	text-shadow: 2px 2px #ccccb3;
+	font-size: 18px;
+}
+.login_well {
+	margin-top:80px;
+	color: #993300;
+}
+.login_header {
+	color: #cc0000;
+	font-size: 30px;
+}
+.login_title {
+	margin-bottom: 40px;
+}
+.login_warning {
+	color: #800000;
+}
+.login_btn {
+	margin-top: 30px;
+}
+.login_inputs {
+	display: none;
+}
+
+/*end of login page*/
+
+/*sign page*/
+.sign_submit {
+	margin-top: 50px;
+}
+.sign_errors {
+	margin-top: 40px;
+}
+.sign_back {
+	margin-left: 60px;
+}
+/*end of sign page*/
+
+/*allusers page*/
+.allusers_names {
+	text-align: center;
+	color:  #ff66ff;
+	font-size: 18px;
+}
+.allusers_avatar {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.allusers_well {
+	margin-top: 50px;
+	margin-bottom: 70px;
+	color: #009999;
+}
+.allusers_well h3 {
+	font-size: 28px;
+}
+
+/*end of allusers page*/
+
+/*allrooms page*/
+
+.allrooms_name {
+	font-size: 24px;
+	color:#ac3939;
+}
+.allrooms_room {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+	margin-bottom: 30px;
+}
+
+/*end of allrooms page*/
+
+/*allmessages page*/
+
+.allmessages_body {
+	font-size: 22px;
+	color: #006600;
+}
+.allmessages_room {
+	color: #ac3939;
+	font-size: 18px;
+}
+.allmessages_message {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding-left: 55px;
+	padding-right: 55px;
+	margin-bottom: 30px;
+}
+
+/*end of allmessages page*/
+
+/*rooms page*/
+
+.rooms_title {
+	color:#cc0000;
+}
+.rooms_p {
+	margin-top: 20px;
+}
+.rooms_option {
+	color: #993300;
+}
+.rooms_chatbtn {
+	margin-top: 20px;
+}
+.rooms_title2 {
+	color:#cc0000;
+}
+.rooms_well {
+	margin-top:80px;
+	color: #993300;
+}
+.rooms_label {
+	margin-top: 20px;
+}
+.rooms_author {
+	color:#ff66ff;
+}
+.rooms_unique {
+	color: #cc0000;
+}
+.rooms_created {
+	color: #0099cc;
+}
+
+/*end of rooms page*/
+
+/*messages page*/
+
+.messages_title {
+	color:#cc0000;
+}
+.messages_body {
+	margin-top: 20px;
+	color: #006600;
+}
+.messages_author {
+	margin-top: 20px;
+	font-size: 18px;
+	color: #ff66ff;
+}
+.messages_post {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.messages_id {
+	color: #009999;
+}
+.messages_nickname {
+	color: #ff66ff;
+	font-size: 18px;
+}
+.messages_bd {
+	color: #006600;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+/*end of messages page*/
+
+/*profile page*/
+
+.profile_title {
+	margin-top: 20px;
+	color: #cc0000;
+}
+.profile_det {
+	margin-top: 20px;
+}
+.profile_image {
+	margin-top: 40px;
+}
+.profile_avatar {
+	margin-top: 50px;
+	font-weight: bolder;
+	font-size: 18px;
+	color: #cc3300;
+}
+.profile_details {
+	margin-top: 30px;
+}
+.profile_person {
+	margin-top: 30px;
+	color: #009999;
+	font-size: 18px;
+	font-weight: bolder;
+
+}
+.profile_delete {
+	margin-top: 20px;
+}
+.profile_edit {
+	margin-top: 60px;
+}
+
+/*end of profile page*/
+
+/*edit page*/
+
+.edit_label {
+	color: #0099cc;
+	text-shadow: 2px 2px #ccccb3;
+	font-size: 18px;
+	margin-top: 30px;
+}
+.edit_save {
+	margin-top: 40px;
+}
+.edit_header {
+	color: #cc0000;
+	font-size: 30px;
+}
+/*end of edit page*/
+
+/*main page*/
+
+.main_body {
+	margin-top: 45px;
+}
+.main_body button {
+	width: 120px;
+}
+.main_item {
+	height: 400px;
+}
+.main_head {
+	color:  #4d0026;
+}
+.main_img {
+	width: 120px;
+	height: 120px;
+}
+.main_button {
+	margin-top: 50px;
+}
+footer {
+	margin-top: 80px;
+}
+.main_footer {
+	margin-left: 40px;
+	color: #4d0026;
+}
+/*end of main page*/
+
+/*about page*/
+
+.about_body {
+	font-size: 18px;
+	color:#4d0026;
+}
+
+/*end of about page*/
+
+/*FAQ page*/
+
+.FAQ_answer {
+	margin-top: 5px;
+	margin-bottom: 50px;
+	font-size: 14px;	
+}
+
+/*end of FAQ page*/
+
+/*all*/
+
+.margin_left {
+	margin-left: 50px;
+	
+}

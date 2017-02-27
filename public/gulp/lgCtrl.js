@@ -1,0 +1,1 @@
+angular.module("lgCtrl",[]).controller("logController",function(n,o,c){n.loginData={},c.get().success(function(o){n.chatusers=o}),n.dt,n.loginUser=function(){c.lg(n.loginData).success(function(o){n.dt=o,n.check=0;for(var c in n.dt)if(n.dt.hasOwnProperty(c))return n.check=1,void(n.nickname=n.dt.nickname);n.check=2}).error(function(n){console.log(n)})}});
